@@ -1,4 +1,4 @@
 # MyFirstRepo
 ## Practicing the pull command
 
-This is mu initial edition from GitHub.
+This is my initial edition from GitHub.
